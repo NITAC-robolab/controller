@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega168P</DEVICE>
+ <WORKING_DIR>P:\my_avrassem\2011robo\rcvr</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>P:\my_avrassem\2011robo\rcvr\rcvr.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\m168pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>P:\my_avrassem\2011robo\rcvr\rcvr.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>P:\my_avrassem\2011robo\rcvr\rcvr.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>P:\my_avrassem\2011robo\rcvr\rcvr.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>P:\my_avrassem\2011robo\rcvr\rcvr.asm</FILE><LINE>33</LINE></INIT>
+  <MAIN><FILE>P:\my_avrassem\2011robo\rcvr\rcvr.asm</FILE><LINE>200</LINE></MAIN>
+  <TIM0_OVF><FILE>P:\my_avrassem\2011robo\rcvr\rcvr.asm</FILE><LINE>108</LINE></TIM0_OVF>
+  <LS_INV><FILE>P:\my_avrassem\2011robo\rcvr\rcvr.asm</FILE><LINE>126</LINE></LS_INV>
+  <TIM2_OVF><FILE>P:\my_avrassem\2011robo\rcvr\rcvr.asm</FILE><LINE>139</LINE></TIM2_OVF>
+  <RS_INV><FILE>P:\my_avrassem\2011robo\rcvr\rcvr.asm</FILE><LINE>157</LINE></RS_INV>
+  <RCVDATA><FILE>P:\my_avrassem\2011robo\rcvr\rcvr.asm</FILE><LINE>171</LINE></RCVDATA>
+  <MAXMINR20><FILE>P:\my_avrassem\2011robo\rcvr\rcvr.asm</FILE><LINE>180</LINE></MAXMINR20>
+  <MAXMINR20_1><FILE>P:\my_avrassem\2011robo\rcvr\rcvr.asm</FILE><LINE>183</LINE></MAXMINR20_1>
+  <MAXMINR20_2><FILE>P:\my_avrassem\2011robo\rcvr\rcvr.asm</FILE><LINE>187</LINE></MAXMINR20_2>
+  <MAXMINR21><FILE>P:\my_avrassem\2011robo\rcvr\rcvr.asm</FILE><LINE>190</LINE></MAXMINR21>
+  <MAXMINR21_1><FILE>P:\my_avrassem\2011robo\rcvr\rcvr.asm</FILE><LINE>193</LINE></MAXMINR21_1>
+  <MAXMINR21_2><FILE>P:\my_avrassem\2011robo\rcvr\rcvr.asm</FILE><LINE>197</LINE></MAXMINR21_2>
+  <MAIN1><FILE>P:\my_avrassem\2011robo\rcvr\rcvr.asm</FILE><LINE>215</LINE></MAIN1>
+  <LRESET><FILE>P:\my_avrassem\2011robo\rcvr\rcvr.asm</FILE><LINE>287</LINE></LRESET>
+  <RRESET><FILE>P:\my_avrassem\2011robo\rcvr\rcvr.asm</FILE><LINE>294</LINE></RRESET>
+  <RANLGEND><FILE>P:\my_avrassem\2011robo\rcvr\rcvr.asm</FILE><LINE>326</LINE></RANLGEND>
+  <LANLGEND><FILE>P:\my_avrassem\2011robo\rcvr\rcvr.asm</FILE><LINE>353</LINE></LANLGEND>
+  <SENDDATA><FILE>P:\my_avrassem\2011robo\rcvr\rcvr.asm</FILE><LINE>395</LINE></SENDDATA>
+ </LABELS>
+</ASSEMBLER_INFO>
